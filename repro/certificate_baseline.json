@@ -1,0 +1,78 @@
+{
+  "all_pass": true,
+  "all_pass_normalized": true,
+  "blockers": {
+    "GGL_G1": [],
+    "GGL_G2": [],
+    "GGL_G3": [],
+    "GGL_G4": [],
+    "GGL_G5": [],
+    "GGL_G6": [],
+    "GGL_GM": []
+  },
+  "derived": {
+    "strict_coh_zero": true,
+    "strict_margin": 0.801924619085806
+  },
+  "gates": {
+    "GGL_G1": "PASS",
+    "GGL_G2": "PASS",
+    "GGL_G3": "PASS",
+    "GGL_G4": "PASS",
+    "GGL_G5": "PASS",
+    "GGL_G6": "PASS",
+    "GGL_GM": "PASS"
+  },
+  "inputs": {
+    "eps_coh": 0.0,
+    "jet_transfer": 1.030627,
+    "kappa_compact": 0.801924619085806,
+    "kappa_entire": 1.0918990000000002,
+    "rho_rigidity": 1.078,
+    "sigma_hyperbolic": 1.0739999999999998,
+    "sigma_star_can": 1.054
+  },
+  "lane": {
+    "active_lane": "manifold_constrained",
+    "canonical_theorem_lane": "manifold_constrained"
+  },
+  "meta": {
+    "computed_at_utc": "2026-03-13T17:47:51+00:00",
+    "framework": "green_griffiths_lang_conjecture"
+  },
+  "normalized": {
+    "blockers": {
+      "G1": [],
+      "G2": [],
+      "G3": [],
+      "G4": [],
+      "G5": [],
+      "G6": [],
+      "GCoh": [],
+      "GM": []
+    },
+    "gates": {
+      "G1": "PASS",
+      "G2": "PASS",
+      "G3": "PASS",
+      "G4": "PASS",
+      "G5": "PASS",
+      "G6": "NA",
+      "GCoh": "PASS",
+      "GM": "PASS"
+    }
+  },
+  "schema": {
+    "g6_policy": "NA means this framework has no standalone pre-coherence G6 gate",
+    "normalized_gate_keys": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "GCoh",
+      "GM"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "extracted_source": "artifacts/constants_extracted.json",
+  "framework": "green_griffiths_lang_conjecture",
+  "generated_utc": "2026-03-13T17:47:51Z",
+  "promoted_constants": {
+    "eps_coh": 0.0,
+    "jet_transfer": 1.030627,
+    "kappa_compact": 0.801924619085806,
+    "kappa_entire": 1.0918990000000002,
+    "rho_rigidity": 1.078,
+    "sigma_hyperbolic": 1.0739999999999998
+  },
+  "promoted_stitch": {
+    "sigma_star_can": 1.054
+  },
+  "registry_path": "artifacts/constants_registry.json",
+  "schema_version": "2026-03-05",
+  "stitch_path": "artifacts/stitch_constants.json"
+}
